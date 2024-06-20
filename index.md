@@ -5,3 +5,5 @@
 #### This is an H4 heading.
 
 Just added some headings for testing purposes. 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
